@@ -14,5 +14,5 @@ It is core to our mission to extend Ivy-League education to all who seek it. You
 
 This is text for the professional box on the homepage.
 
-![](../.gitbook/assets/home_box.png)
+![home screenshot](../.gitbook/assets/home_box.png)
 
