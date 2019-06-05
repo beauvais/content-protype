@@ -4,7 +4,8 @@ _/home#professional_
 
 ## State: not selected
 
-Professional programs bring together the leading researchers on the workplace with training grounded in practice. We offer a range of programs from workshops and certificates to conferences and forums. We also customise research-based education for professionals.
+Invest in your career through academic programs, grounded in practice and focused on 
+**real-world application**. 
 
 ## Notes
 This is text for the professional box on the homepage.
