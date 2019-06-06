@@ -1,4 +1,4 @@
-# Content and IA Model
+# IA and Content Model
 
 ## IA
 

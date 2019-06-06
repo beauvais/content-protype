@@ -1,4 +1,4 @@
-# Professional Programs
+# Programs Page
 
 ILR offers the most comprehensive portfolio of professional and academic programs grounded in practice and focused on real-world application.
 
