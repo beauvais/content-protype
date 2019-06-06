@@ -1,6 +1,7 @@
 # Course model
 
 * Title
+* Course code (optional)
 * Course image (optional)
 * Breadcrumb (include topic?)
 * Shortest description (max: 50 words)
