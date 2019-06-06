@@ -31,7 +31,12 @@
     - Background materials [2][]
     - Moderator [2][]
     - Panel [2][]
-
+* Testimonials
+    - Quote
+    - Call-out quote
+    - Name
+    - Photo
+* 
 ## Details
 
 * Key Topics [4][]
