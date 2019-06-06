@@ -13,6 +13,7 @@
     * [Diversity and Inclusion](professional-programs/topic-page/diversity-and-inclusion.md)
     * [Disability and Employment](professional-programs/topic-page/disability-and-employment.md)
     * [Conflict Resolution](professional-programs/topic-page/conflict-resolution.md)
+  * [Course Model](/professional-programs/course-model.md)
   * [Course Page](professional-programs/course-page.md)
   * [Course listing](professional-programs/course-listing.md)
   * [Course-finder widget](professional-programs/course-finder-widget.md)
