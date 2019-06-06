@@ -15,9 +15,10 @@
         + Notification CTA
             * Request customised delivery <--?
             * Notify me when this course is next offered.
-        + Longer description
-    - Key Topics
-    - Instructors
+* Body
+* Details
+* Related courses
+* CTAs
 
 ## Body:
 * Course video (optional)
@@ -37,6 +38,7 @@
     - Name
     - Photo
 * 
+
 ## Details
 
 * Key Topics [4][]
@@ -51,9 +53,15 @@
     - Short CV (Max: 50 words, expandable)
 * Price
 * Dates
+
+## Related Courses
+
 * Related courses
     - Explicitly related (someone makes this relationship in the system)
     - Implicit (c.f. [related course suggestions](/professional-programs/related-course-suggestions.md))
+
+## CTAs
+
 * Register
 * Request Customised delivery
 * Notify me
