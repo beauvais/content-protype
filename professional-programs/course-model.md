@@ -51,6 +51,9 @@
     - Short CV (Max: 50 words, expandable)
 * Price
 * Dates
+* Related courses
+    - Explicitly related (someone makes this relationship in the system)
+    - Implicit (c.f. [related course suggestions](/professional-programs/related-course-suggestions.md))
 * Register
 * Request Customised delivery
 * Notify me
