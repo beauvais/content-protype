@@ -19,20 +19,23 @@
     - Key Topics
     - Instructors
 
-Body:
-
+## Body:
+* Course video (optional)
 * Longer description
+    - Special features [4][]
+    - Who will benefit? [3][]
+    - Key Outcomes [1][]
+    - Approach and Features [1][]
+    - Related workshops [8][]
+    - Related content [4][]
+    - Background materials [2][]
+    - Moderator [2][]
+    - Panel [2][]
+
+## Details
+
 * Key Topics [4][]
-* Special features [4][]
-* Who will benefit? [3][]
-* Key Outcomes [1][]
-* Approach and Features [1][]
-* Related workshops [8][]
-* Related content [4][]
 * CLE credit [2][]
-* Background materials [2][]
-* Moderator [2][]
-* Panel [2][]
 * Location [5][]
 * Certificate program [7][]
 * Instructors [1][]
