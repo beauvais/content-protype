@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 * [Professional Programs](professional-programs/README.md)
-  * [IA and Content Model](professional-programs/content-model-outline.md)
+  * [IA and Content Model](professional-programs/ia-content-model.md)
   * [ILR Homepage](professional-programs/home.md)
   * [Programs Page](professional-programs/programs-page.md)
   * [Topic Page](professional-programs/topic-page/README.md)
