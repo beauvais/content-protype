@@ -1,16 +1,16 @@
-# Home
+# ILR Homepage
 
 _/home\#professional_
 
 ## State: not selected
 
-```
+```text
 Invest in your career through academic programs grounded in practice and focused on **real-world application**.
 ```
 
 ## State: selected
 
-```
+```text
 It is core to our mission to extend Ivy-League education to all who seek it. You can choose from a wide range of professional and academic programs, grounded in practice and focused on real-world application. Our programs are led by instructors with a unique blend of business and academic experience.
 ```
 
