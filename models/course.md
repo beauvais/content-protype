@@ -12,11 +12,15 @@
 * Calls to action
 * Dates
 * Body
+* Benefits
+* Audience
+* Related courses (implicit)
 
 **Optional fields**
 
 * Course image
 * Prerequisite courses
+* Related courses (explicit)
 
 ## Required fields
 
@@ -66,6 +70,13 @@ If scheduled, this field pulls data from Salesforce to display upcoming dates. I
 {% hint style="info" %}
 **NB:** This field can be used as a migration interim step. Before we have courses mapped to this content model, we can pull through most of the content from the previous site into this field – then, we can ask content owners to split it out into appropriate field types \(e.g. benefits, topics...\)
 {% endhint %}
+
+### Related courses (implicit)
+
+#### Field notes
+
+This programmatically displays related courses.
+
 
 ## Optional fields
 
