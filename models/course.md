@@ -6,22 +6,41 @@
 
 ### Short description
 
-* Text
+* Text field type
 * 50 words max (hard limit)
 
 #### Field notes
 
 Guide text:
 
-
-
 ### Course code
+
+e.g. LR105
+
+### Format
+
+* Controlled vocabulary: [course-formats](models/vocabularies/course-formats.md)
+
+### Price
+
+* Number (currency) field type
+
+### Calls to action
+
+* Register
+* Request Customised delivery
+* Notify me
+
 
 ## Optional fields
 
 ### Course image
 
+### Prerequisite courses
 
+
+
+## Notes
 
 * Title
 * Course code (optional)
@@ -89,7 +108,7 @@ Guide text:
 * Request Customised delivery
 * Notify me
 
-## Notes
+## Examples
 
 This course page for [Trends in Health Care Benefits...][6] illustrates when there isn't enough information for a user to understand or make a choice.
 
