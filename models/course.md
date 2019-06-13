@@ -1,6 +1,8 @@
 # course
 
-## Required fields
+## Outline
+
+**Required fields**
 
 * Title
 * Course code
@@ -11,6 +13,12 @@
 * Dates
 * Body
 
+**Optional fields**
+
+* Course image
+* Prerequisite courses
+
+## Required fields
 
 ### Title
 
