@@ -31,6 +31,22 @@ e.g. LR105
 * Request Customised delivery
 * Notify me
 
+### Dates
+
+#### Field notes
+
+If scheduled, this field pulls data from Salesforce to display upcoming dates.
+If unscheduled, this field displays a notify-me CTA
+
+### Body
+
+* Rich-text field
+* No character limit
+* Mixed-media (may contain images)
+
+#### Field notes
+
+**NB:** This field can be used as a migration interim step. Before we have courses mapped to this content model, we can pull through most of the content from the previous site into this field – then, we can ask content owners to split it out into appropriate field types (e.g. benefits, topics...)
 
 ## Optional fields
 
