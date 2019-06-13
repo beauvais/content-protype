@@ -2,6 +2,16 @@
 
 ## Required fields
 
+* Title
+* Course code
+* Short description
+* Format
+* Price
+* Calls to action
+* Dates
+* Body
+
+
 ### Title
 
 ### Short description
