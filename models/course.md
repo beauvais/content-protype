@@ -45,7 +45,9 @@ If scheduled, this field pulls data from Salesforce to display upcoming dates. I
 
 #### Field notes
 
+{% hint style="info" %}
 **NB:** This field can be used as a migration interim step. Before we have courses mapped to this content model, we can pull through most of the content from the previous site into this field – then, we can ask content owners to split it out into appropriate field types \(e.g. benefits, topics...\)
+{% endhint %}
 
 ## Optional fields
 
