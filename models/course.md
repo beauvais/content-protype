@@ -41,7 +41,13 @@ e.g. LR105
 
 ### Format
 
+_e.g. 1-day workshop_
+
 * Controlled vocabulary: [course-formats](vocabularies/course-formats.md)
+
+### Audience
+
+* Controlled vocabulary: professional-audiences
 
 ### Price
 
