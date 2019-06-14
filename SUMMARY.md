@@ -4,6 +4,7 @@
 * [Models](models/README.md)
   * [Vocabularies](models/vocabularies/README.md)
     * [Course Formats](models/vocabularies/course-formats.md)
+    * [Professional Audiences](models/vocabularies/professional-audiences.md)
   * [course](models/course.md)
 * [Professional Programs](professional-programs/README.md)
   * [IA and Content Model](professional-programs/ia-content-model.md)
