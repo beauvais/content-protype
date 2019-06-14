@@ -50,7 +50,7 @@ _e.g. 1-day workshop_
 
 ### Audience
 
-* Controlled vocabulary: professional-audiences
+* Controlled vocabulary: [professional-audiences](vocabularies/professional-audiences.md)
 
 ### Price
 
