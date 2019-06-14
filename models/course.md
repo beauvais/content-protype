@@ -26,6 +26,8 @@
 
 ### Title
 
+* Text field type
+
 ### Short description
 
 * Text field type
@@ -37,7 +39,8 @@ Guide text:
 
 ### Course code
 
-e.g. LR105
+* Pulled through from other system
+* Looks like: LR105
 
 ### Format
 
@@ -130,9 +133,7 @@ This programmatically displays related courses.
   * Call-out quote
   * Name
   * Photo
-* 
-## Details
-
+* **Details**
 * Key Topics [4](https://www.ilr.cornell.edu/programs/professional-programs/co231/employee-internal-investigations-part-i)
 * CLE credit [2](https://www.ilr.cornell.edu/programs/professional-programs/hr413/hr-consulting-skills-becoming-trusted-thought-partner)
 * Location [5](https://www.ilr.cornell.edu/programs/professional-programs/hr420/advanced-organization-design-activating-new-operating-models)
