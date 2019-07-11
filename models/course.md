@@ -1,32 +1,43 @@
-# course
+# Professional Program Content Model
 
 ## Outline
 
-**Required fields**
+### Required fields
 
 * Title
 * Course code
-* Short description
-* Format
+* Topic
+* Listing intro
 * Price
-* Calls to action
 * Dates
 * Body
-* Benefits
-* Audience
-* Related courses \(implicit\)
+* Sponsor
+* Salesforce ID
+* Program instructors
+* Format
+* Delivery
+* Related programs \(implicit\)
 
-**Optional fields**
+### Optional fields
 
-* Course image
+* Short description
+* Program image
+* Program video
 * Prerequisite courses
+* Audience
+* Series
+* Continuing-education credit
+* Benefits
 * Related courses \(explicit\)
 
-## Required fields
 
 ### Title
 
-* Text field type
+**Type:** short-text field
+
+**Guidance:**
+
+**Field notes:** 250 character limit
 
 ### Short description
 
