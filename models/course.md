@@ -37,7 +37,15 @@
 
 **Guidance:**
 
-**Field notes:** 250 character limit
+**Field notes:** 70 character limit
+
+### Course code
+
+**Type:** 
+
+**Guidance:** none
+
+**Field notes:** 
 
 ### Short description
 
@@ -103,7 +111,9 @@ This programmatically displays related courses.
 
 ### Prerequisite courses
 
-## Notes
+---
+
+# Notes
 
 * Title
 * Course code \(optional\)
