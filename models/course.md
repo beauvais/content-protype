@@ -30,6 +30,7 @@
 * Benefits
 * Related courses \(explicit\)
 
+## Required fields
 
 ### Title
 
@@ -45,9 +46,137 @@
 
 **Guidance:** none
 
-**Field notes:** 
+**Field notes:** This is pulled through from another system. They look like this: "LR105"
+
+### Topic
+
+**Type:** Vocabulary – "topic"
+
+**Guidance:** Must have one topic, can have two.
+
+**Field notes:**
+
+### Listing intro
+
+**Type:** text field
+
+**Guidance:** 
+
+**Field notes:** 50 word limit (hard). This field is used for search results and landing pages within the catalogue, and on cards where a program is surfaced outside the catalogue.
+
+### Price
+
+**Type:** Number
+
+**Guidance:** none
+
+**Field notes:** Formatted as currency (USD)
+
+### Dates
+
+**Type:** Date picker
+
+**Guidance:** "Pick the date."
+
+**Field notes:** Can we schedule more than one date (i.e. if the program runs more than once; or if it spans more than one day)
+
+### Body
+
+**Type:** Rich Text
+
+**Guidance:**
+
+**Field notes:** Full WYSIWYG as supported by templates
+
+### Sponsor
+
+**Type:** Controlled Vocabulary
+
+* Scheinman
+* Worker Institute
+* Executive Education
+* LEL / CJEI
+
+**Guidance:** Choose the institute, center or program which sponsors this event
+
+**Field notes:** Drop-down selection (this vocab might already exist and be complete)
+
+### Salesforce ID
+
+**Type:** Reference
+
+**Guidance:**
+
+**Field notes:** Provided by integration with Salesforce.
+
+### Program instructors
+
+**Type:** Block
+
+**Guidance:** Choose from existing instructors or create a new profile
+
+**Field notes:** Select from existing instructors, or start a wizard to create a new profile
+
+### Format
+
+**Type:** Controlled vocabulary
+
+* Workshop
+* Course
+* Certificate program
+* Credit course
+* Webinar
+* Forum
+
+**Guidance:** none
+
+**Field notes:**  This already exists – could be reviewed
+
+### Delivery
+
+**Type:** Controlled vocabulary
+
+* In-person
+* Online
+* Blended
+
+**Guidance:** How will this program be delivered?
+
+**Field notes:** This is currently called _Setting_. It could be replaced with (or augmented by) a map
+
+### Location
+
+**Type:** Location
+
+**Guidance:** Choose where this program will be offered.
+
+**Field notes:** This could either be a map, or a list of pre-defined locations which correspond to a real location (and can be displayed on a map)
+
+**e.g.**
+
+* ILR Ithaca
+* ILR New York City
+* ILR Buffalo
+* eCornell (online)
+* ILR webcast (online)
+
+### Related programs \(implicit\)
+
+**Type:** Block (?)
+
+**Guidance:** Choose any other programs that you want to visitors as related to this program.
+
+**Field notes:** A program creator should be able to choose from other programs and create the relationship (bonus if they can state the nature of the relationship [e.g. 2nd in a series, required _before this one_ ...])
+
+## Optional Fields
 
 ### Short description
+
+**Type:** rich-text field
+
+**Guidance:** Summarise your program, focusing on the benefits to users. You can include photographs or illustrations (such as slides), but aim to be brief.
+
+**Field notes:** This is a possible block we could use to allow for overview content that could live above other blocks such as a video or _benefits_ blocks.
 
 * Text field type
 * 50 words max \(hard limit\)
@@ -56,10 +185,6 @@
 
 Guide text:
 
-### Course code
-
-* Pulled through from other system
-* Looks like: LR105
 
 ### Format
 
