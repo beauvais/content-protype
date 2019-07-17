@@ -52,6 +52,15 @@
 
 **Type:** Vocabulary – "topic"
 
+* Conflict resolution
+* Disability and employment
+* Diversity and inclusion
+* Human resources
+* Employment law
+* Employee relations
+* Labor relations
+* Leadership development and organizational change
+
 **Guidance:** Must have one topic, can have two.
 
 **Field notes:**
@@ -178,12 +187,77 @@
 
 **Field notes:** This is a possible block we could use to allow for overview content that could live above other blocks such as a video or _benefits_ blocks.
 
-* Text field type
-* 50 words max \(hard limit\)
+### Program image
 
-#### Field notes
+**Type:** Image
 
-Guide text:
+**Guidance:** Choose or upload an image to illustrate your program. This will be used in the header, and on promotional blocks across the site. Photos of people work best, but don't use any images you don't have permission and rights to use.
+
+**Field notes:** 
+
+### Program video
+
+**Type:** Media player
+
+**Guidance:**
+
+**Field notes:** This one could be locked down and only available to some people who've commissioned or had a video approved ?
+
+### Prerequisite courses
+
+**Type:** Reference
+
+**Guidance:** Choose any programs people need to take _before_ attending this one.
+
+**Field notes:** Program creators should be able to pick other programs.
+
+### Audience
+
+**Type:** 
+
+**Guidance:**
+
+**Field notes:** 
+
+### Series
+
+**Type:** 
+
+**Guidance:**
+
+**Field notes:** 
+
+### Continuing-education credit
+
+**Type:** 
+
+**Guidance:**
+
+**Field notes:** 
+
+### Benefits
+
+**Type:** 
+
+**Guidance:**
+
+**Field notes:** 
+
+### Related courses \(explicit\)
+
+**Type:** 
+
+**Guidance:**
+
+**Field notes:** 
+
+
+
+---
+
+
+
+
 
 
 ### Format
